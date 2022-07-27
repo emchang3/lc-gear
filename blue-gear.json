@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Standard Mark VI Corvus Pattern Helmet",
+    "type": "head",
+    "quality": "elite",
+    "stats": {
+      "predator": {
+        "defense": 9
+      },
+      "vanguardVeteran": {
+        "attack": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Standard Mark IV Imperial Maximus Suit Helmet",
+    "type": "head",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "defense": 9
+      },
+      "primarisSquad": {
+        "attack": 4.5
+      },
+      "marchSpeed": 2.25
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Shoulder Guards",
+    "type": "shoulders",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 9
+      },
+      "predator": {
+        "defense": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Shoulder Guards of Tenacity",
+    "type": "shoulders",
+    "quality": "elite",
+    "stats": {
+      "whirlwind": {
+        "attack": 9
+      },
+      "predator": {
+        "defense": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Gauntlets",
+    "type": "hands",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 9
+      },
+      "predator": {
+        "defense": 4.5
+      },
+      "nonPlayerDamage": 2.25
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Gauntlets of Guidance",
+    "type": "hands",
+    "quality": "elite",
+    "stats": {
+      "whirlwind": {
+        "attack": 9
+      },
+      "predator": {
+        "hp": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Breastplate",
+    "type": "chest",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "hp": 9
+      },
+      "predator": {
+        "hp": 4.5
+      }
+    },
+    "set": {
+      "2pc": "nonPlayerDamage5%"
+    },
+    "materials": {
+      "dataCables": 40
+    }
+  },
+  {
+    "name": "Standard Mark VI Corvus Pattern Breastplate",
+    "type": "chest",
+    "quality": "elite",
+    "stats": {
+      "predator": {
+        "hp": 9
+      },
+      "dreadnought": {
+        "defense": 4.5
+      },
+      "nonPlayerDamageTaken": 1.5
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "dataCables": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Standard Mark VIII Errant Pattern Breastplate",
+    "type": "chest",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "hp": 9
+      },
+      "predator": {
+        "defense": 4.5
+      }
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Leg Plates",
+    "type": "legs",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 9
+      },
+      "whirlwind": {
+        "attack": 4.5
+      }
+    },
+    "set": {
+      "2pc": "nonPlayerDamage5%"
+    },
+    "materials": {
+      "dataCables": 40
+    }
+  },
+  {
+    "name": "Standard Mark VIII Errant Pattern Leg Plates",
+    "type": "legs",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "defense": 9
+      },
+      "primarisSquad": {
+        "attack": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Vanguard Leg Plates",
+    "type": "legs",
+    "quality": "elite",
+    "stats": {
+      "predator": {
+        "defense": 9
+      },
+      "whirlwind": {
+        "attack": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  }
+]

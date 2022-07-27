@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Battle-hardened Mark VI Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "dreadnought": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "marchSpeed": 3
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark III Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "nonPlayerDamage": 3
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought":{
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "name": "Helmet of Strength",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "defense": 12
+      },
+      "vanguardVeteran": {
+        "attack": 6,
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VIII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark V Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "primarisSquad": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 12,
+        "hp": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Shoulder Guards of Strength",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "predator": {
+        "hp": 6
+      },
+      "vanguardVeteran": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VIII Gauntlets",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "vanguardVeteran": {
+        "hp": 6
+      },
+      "predator": {
+        "hp": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "dataCables": 40
+    }
+  },
+  {
+    "name": "Battle-hardened Mark V Gauntlets",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 12,
+        "defense": 6
+      },
+      "predator": {
+        "defense": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Gauntlets",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "vanguardVeteran": {
+        "defense": 6,
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Gauntlets of Strength",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "predator": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VI Breastplate",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 12,
+        "defense": 6
+      },
+      "predator": {
+        "hp": 6
+      }
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "dataCables": 40
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Breastplate",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "defense": 6,
+        "hp": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "dataCables": 40
+    }
+  },
+  {
+    "name": "Breastplate of Strength",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VIII Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "defense": 12
+      },
+      "vanguardVeteran": {
+        "attack": 6,
+        "hp": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark V Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "dreadnought": {
+        "defense": 12,
+        "hp": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "name": "Leg Plates of Strength",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12,
+        "hp": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VIII Backpack",
+    "type": "back",
+    "quality": "epic",
+    "stats": {
+      "armySizeLimit": 6,
+      "harvestingSpeed": 6,
+      "predator": {
+        "defense": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Battle-hardened Mark VII Backpack",
+    "type": "back",
+    "quality": "epic",
+    "stats": {
+      "armySizeLimit": 12,
+      "fuelCollectingSpeed": 6,
+      "vanguardVeteran": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  }
+]

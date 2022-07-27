@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Damaged VII Helmet",
+    "type": "head",
+    "quality": "outstanding",
+    "stats": {
+      "predator": {
+        "defense": 6
+      },
+      "harvestingSpeed": 3
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "name": "Damaged VII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "outstanding",
+    "stats": {
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20
+    }
+  },
+  {
+    "name": "Damaged VII Gauntlets",
+    "type": "hands",
+    "quality": "outstanding",
+    "stats": {
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20
+    }
+  },
+  {
+    "name": "Damaged VII Breastplate",
+    "type": "chest",
+    "quality": "outstanding",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 6
+      }
+    },
+    "materials": {
+      "dataCables": 20
+    }
+  },
+  {
+    "name": "Damaged Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "outstanding",
+    "stats": {
+      "dreadnought": {
+        "defense": 6
+      },
+      "marchSpeed": 1.5
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  }
+]
