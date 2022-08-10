@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Helmet of Rage",
+    "type": "head",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "nonPlayerDamage": 3.75
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VII Helmet",
+    "type": "head",
+    "quality": "legendary",
+    "stats": {
+      "predator": {
+        "defense": 15
+      },
+      "vanguardVeteran": {
+        "attack": 7.5
+      },
+      "whirlwind": {
+        "attack": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 50,
+      "adamantiumFrame": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VI Helmet",
+    "type": "head",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 15
+      },
+      "primarisSquad": {
+        "attack": 7.5
+      },
+      "whirlwind": {
+        "attack": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 50,
+      "adamantiumFrame": 25
+    }
+  },
+  {
+    "name": "Helmet of Drakehide Scales",
+    "type": "head",
+    "quality": "legendary",
+    "stats": {
+      "predator": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "nonPlayerDamage": 3.75
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Shoulder Guard of Rage",
+    "type": "shoulders",
+    "quality": "legendary",
+    "stats": {
+      "predator": {
+        "defense": 7.5
+      },
+      "whirlwind": {
+        "attack": 15
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 50
+    }
+  },
+  {
+    "name": "Artificer Mark VII Shoulder Guard",
+    "type": "shoulders",
+    "quality": "legendary",
+    "stats": {
+      "primarisSquad": {
+        "attack": 15
+      },
+      "predator": {
+        "hp": 7.5
+      },
+      "vanguardVeteran": {
+        "attack": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 50,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VI Shoulder Guard",
+    "type": "shoulders",
+    "quality": "legendary",
+    "stats": {
+      "primarisSquad": {
+        "attack": 15
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      },
+      "dreadnought": {
+        "hp": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Shoulder Guards of Drakehide Scales",
+    "type": "shoulders",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 15,
+        "hp": 7.5
+      },
+      "predator": {
+        "hp": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 50
+    }
+  },
+  {
+    "name": "Gauntlets of Rage",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 15,
+        "hp": 7.5
+      },
+      "predator": {
+        "hp": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 50
+    }
+  },
+  {
+    "name": "Artificer Mark VII Gauntlets",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 15
+      },
+      "dreadnought": {
+        "defense": 7.5
+      },
+      "primarisSquad": {
+        "attack": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 50,
+      "adamantiumFrame": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VI Gauntlets",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "whirlwind": {
+        "attack": 15
+      },
+      "vanguardVeteran": {
+        "hp": 7.5
+      },
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Gauntlets of Drakehide Scales",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 15
+      },
+      "predator": {
+        "hp": 7.5
+      },
+      "nonPlayerDamageTaken": 3
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Rebel's Bane",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 15,
+        "defense": 7.5
+      },
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "adamantiumFrame": 50,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VII Breastplate",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "hp": 15,
+        "defense": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "adamantiumFrame": 50,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VI Breastplate",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 15
+      },
+      "dreadnought": {
+        "hp": 7.5
+      },
+      "predator": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 50
+    }
+  },
+  {
+    "name": "Breastplate of Drakehide Scales",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "whirlwind": {
+        "attack": 15
+      },
+      "predator": {
+        "hp": 7.5
+      },
+      "nonPlayerDamageTaken": 3
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Leg Plates of Rage",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15,
+        "hp": 7.5
+      },
+      "primarisSquad": {
+        "attack": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 50
+    }
+  },
+  {
+    "name": "Artificer Mark VI Leg Plates",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 50
+    }
+  },
+  {
+    "name": "Leg Plates of Drakehide Scales",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "predator": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "marchSpeed": 3.75
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Artificer Mark VII Backpack",
+    "type": "back",
+    "quality": "legendary",
+    "stats": {
+      "armySizeLimit": 7.5,
+      "metalCollectingSpeed": 10,
+      "nonPlayerDamageTaken": 3
+    },
+    "materials": {
+      "dataCables": 25,
+      "servoMotor": 50
+    }
+  },
+  {
+    "name": "Malthirion Pattern Power Backpack",
+    "type": "back",
+    "quality": "legendary",
+    "stats": {
+      "armySizeLimit": 7.5,
+      "adamantiumCollectingSpeed": 10,
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "servoMotor": 25
+    }
+  },
+  {
+    "name": "Backpack of Drakehide Scales",
+    "type": "back",
+    "quality": "legendary",
+    "stats": {
+      "armySizeLimit": 7.5,
+      "plasmaCollectingSpeed": 10,
+      "nonPlayerDamage": 3.75
+    },
+    "materials": {
+      "adamantiumFrame": 25,
+      "servoMotor": 50
+    }
+  },
+  {
+    "name": "The Backpack of Strength",
+    "type": "back",
+    "quality": "legendary",
+    "stats": {
+      "armySizeLimit": 7.5,
+      "crystalCollectingSpeed": 10,
+      "whirlwind": {
+        "attack": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 25,
+      "servoMotor": 25
+    }
+  }
+]
