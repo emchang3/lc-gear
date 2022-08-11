@@ -18,4 +18,8 @@ class Piece
   def buffs_vanguard
     !self.stats.vanguard_veteran.nil?
   end
+
+  def buffs_dreadnought
+    !self.stats.dreadnought.nil?
+  end
 end

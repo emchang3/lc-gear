@@ -35,3 +35,7 @@ list.include('./data/gold-gear.json')
 pvg = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_vanguard }
 pvgl = GearList.new(pvg)
 pvgl.write_file('epic-vanguard-gear')
+
+pdn = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_dreadnought }
+pdnl = GearList.new(pdn)
+pdnl.write_file('epic-dreadnought-gear')
