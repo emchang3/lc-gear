@@ -2,11 +2,11 @@ require 'json'
 
 require_relative './parsers/piece'
 
-class Handler
+class GearList
   attr_accessor :gear_list
 
-  def initialize
-    @gear_list = []
+  def initialize(initial_list = nil)
+    @gear_list = !initial_list.nil? ? initial_list : []
   end
 
   def include(list_json_location)
@@ -15,15 +15,23 @@ class Handler
     end
   end
 
+  def write_file(filename)
+    f = File.open("./output/#{filename}.json", 'w')
+    f.write(self.to_json)
+    f.close
+  end
+
   def to_json
-    @gear_list.map { |g| g.to_json }
+    JSON.pretty_generate(@gear_list.map { |g| g.json })
   end
 end
 
-handler = Handler.new
-handler.include('./data/green-gear.json')
-handler.include('./data/blue-gear.json')
-handler.include('./data/purple-gear.json')
-handler.include('./data/gold-gear.json')
+list = GearList.new
+list.include('./data/green-gear.json')
+list.include('./data/blue-gear.json')
+list.include('./data/purple-gear.json')
+list.include('./data/gold-gear.json')
 
-puts handler.to_json
+pvg = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_vanguard }
+pvgl = GearList.new(pvg)
+pvgl.write_file('epic-vanguard-gear')

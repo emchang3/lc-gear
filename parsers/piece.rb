@@ -3,6 +3,8 @@ require_relative './stats'
 require_relative './materials'
 
 class Piece
+  attr_reader :json, :name, :type, :quality, :stats, :set, :materials
+
   def initialize(piece_json)
     @json = piece_json
     @name = piece_json['name']
@@ -13,7 +15,7 @@ class Piece
     @materials = Materials.new(piece_json['materials'])
   end
 
-  def to_json
-    JSON.generate(@json)
+  def buffs_vanguard
+    !self.stats.vanguard_veteran.nil?
   end
 end
