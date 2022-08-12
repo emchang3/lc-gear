@@ -36,6 +36,14 @@ pvg = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_vanguard }
 pvgl = GearList.new(pvg)
 pvgl.write_file('epic-vanguard-gear')
 
+bvg = list.gear_list.select { |g| g.quality == 'elite' && g.buffs_vanguard }
+bvgl = GearList.new(bvg)
+bvgl.write_file('elite-vanguard-gear')
+
+gvg = list.gear_list.select { |g| g.quality == 'outstanding' && g.buffs_vanguard }
+gvgl = GearList.new(gvg)
+gvgl.write_file('outstanding-vanguard-gear')
+
 pdn = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_dreadnought }
 pdnl = GearList.new(pdn)
 pdnl.write_file('epic-dreadnought-gear')

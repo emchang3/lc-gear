@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Damaged VII Breastplate",
+    "type": "chest",
+    "quality": "outstanding",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 6
+      }
+    },
+    "materials": {
+      "dataCables": 20
+    }
+  }
+]

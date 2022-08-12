@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Standard Mark VI Corvus Pattern Helmet",
+    "type": "head",
+    "quality": "elite",
+    "stats": {
+      "predator": {
+        "defense": 9
+      },
+      "vanguardVeteran": {
+        "attack": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Shoulder Guards",
+    "type": "shoulders",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 9
+      },
+      "predator": {
+        "defense": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Gauntlets",
+    "type": "hands",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 9
+      },
+      "predator": {
+        "defense": 4.5
+      },
+      "nonPlayerDamage": 2.25
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "name": "Standard Mark VII Aquila Pattern Leg Plates",
+    "type": "legs",
+    "quality": "elite",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 9
+      },
+      "whirlwind": {
+        "attack": 4.5
+      }
+    },
+    "set": {
+      "2pc": "nonPlayerDamage5%"
+    },
+    "materials": {
+      "dataCables": 40
+    }
+  }
+]
