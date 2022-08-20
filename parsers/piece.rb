@@ -7,6 +7,7 @@ class Piece
 
   def initialize(piece_json)
     @json = piece_json
+    @id = piece_json['id']
     @name = piece_json['name']
     @type = piece_json['type']
     @quality = piece_json['quality']

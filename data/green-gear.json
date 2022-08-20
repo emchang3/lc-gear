@@ -1,5 +1,6 @@
 [
   {
+    "id": "dmk7he",
     "name": "Damaged VII Helmet",
     "type": "head",
     "quality": "outstanding",
@@ -15,6 +16,7 @@
     }
   },
   {
+    "id": "dmk7sg",
     "name": "Damaged VII Shoulder Guards",
     "type": "shoulders",
     "quality": "outstanding",
@@ -28,6 +30,7 @@
     }
   },
   {
+    "id": "dmk7ga",
     "name": "Damaged VII Gauntlets",
     "type": "hands",
     "quality": "outstanding",
@@ -41,6 +44,7 @@
     }
   },
   {
+    "id": "dmk7br",
     "name": "Damaged VII Breastplate",
     "type": "chest",
     "quality": "outstanding",
@@ -54,6 +58,7 @@
     }
   },
   {
+    "id": "dmk7lp",
     "name": "Damaged Mark VII Leg Plates",
     "type": "legs",
     "quality": "outstanding",

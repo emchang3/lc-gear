@@ -1,5 +1,6 @@
 [
   {
+    "id": "smk6he",
     "name": "Standard Mark VI Corvus Pattern Helmet",
     "type": "head",
     "quality": "elite",
@@ -17,6 +18,7 @@
     }
   },
   {
+    "id": "smk7sg",
     "name": "Standard Mark VII Aquila Pattern Shoulder Guards",
     "type": "shoulders",
     "quality": "elite",
@@ -34,6 +36,7 @@
     }
   },
   {
+    "id": "smk7ga",
     "name": "Standard Mark VII Aquila Pattern Gauntlets",
     "type": "hands",
     "quality": "elite",
@@ -52,6 +55,7 @@
     }
   },
   {
+    "id": "smk7lp",
     "name": "Standard Mark VII Aquila Pattern Leg Plates",
     "type": "legs",
     "quality": "elite",

@@ -1,5 +1,6 @@
 [
   {
+    "id": "smk6he",
     "name": "Standard Mark VI Corvus Pattern Helmet",
     "type": "head",
     "quality": "elite",
@@ -17,6 +18,7 @@
     }
   },
   {
+    "id": "smk4he",
     "name": "Standard Mark IV Imperial Maximus Suit Helmet",
     "type": "head",
     "quality": "elite",
@@ -36,6 +38,7 @@
     }
   },
   {
+    "id": "smk7sg",
     "name": "Standard Mark VII Aquila Pattern Shoulder Guards",
     "type": "shoulders",
     "quality": "elite",
@@ -53,6 +56,7 @@
     }
   },
   {
+    "id": "sgot",
     "name": "Shoulder Guards of Tenacity",
     "type": "shoulders",
     "quality": "elite",
@@ -70,6 +74,7 @@
     }
   },
   {
+    "id": "smk7ga",
     "name": "Standard Mark VII Aquila Pattern Gauntlets",
     "type": "hands",
     "quality": "elite",
@@ -88,6 +93,7 @@
     }
   },
   {
+    "id": "gaog",
     "name": "Gauntlets of Guidance",
     "type": "hands",
     "quality": "elite",
@@ -105,6 +111,7 @@
     }
   },
   {
+    "id": "smk7br",
     "name": "Standard Mark VII Aquila Pattern Breastplate",
     "type": "chest",
     "quality": "elite",
@@ -124,6 +131,7 @@
     }
   },
   {
+    "id": "smk6br",
     "name": "Standard Mark VI Corvus Pattern Breastplate",
     "type": "chest",
     "quality": "elite",
@@ -143,6 +151,7 @@
     }
   },
   {
+    "id": "smk8br",
     "name": "Standard Mark VIII Errant Pattern Breastplate",
     "type": "chest",
     "quality": "elite",
@@ -160,6 +169,7 @@
     }
   },
   {
+    "id": "smk7lp",
     "name": "Standard Mark VII Aquila Pattern Leg Plates",
     "type": "legs",
     "quality": "elite",
@@ -179,6 +189,7 @@
     }
   },
   {
+    "id": "smk8lp",
     "name": "Standard Mark VIII Errant Pattern Leg Plates",
     "type": "legs",
     "quality": "elite",
@@ -196,6 +207,7 @@
     }
   },
   {
+    "id": "vglp",
     "name": "Vanguard Leg Plates",
     "type": "legs",
     "quality": "elite",

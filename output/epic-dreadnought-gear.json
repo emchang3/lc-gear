@@ -1,5 +1,6 @@
 [
   {
+    "id": "bhmk6he",
     "name": "Battle-hardened Mark VI Helmet",
     "type": "head",
     "quality": "epic",
@@ -19,6 +20,7 @@
     }
   },
   {
+    "id": "bhmk7he",
     "name": "Battle-hardened Mark VII Helmet",
     "type": "head",
     "quality": "epic",
@@ -43,6 +45,7 @@
     }
   },
   {
+    "id": "bhmk8sg",
     "name": "Battle-hardened Mark VIII Shoulder Guards",
     "type": "shoulders",
     "quality": "epic",
@@ -63,6 +66,7 @@
     }
   },
   {
+    "id": "bhmk5sg",
     "name": "Battle-hardened Mark V Shoulder Guards",
     "type": "shoulders",
     "quality": "epic",
@@ -83,6 +87,7 @@
     }
   },
   {
+    "id": "bhmk7sg",
     "name": "Battle-hardened Mark VII Shoulder Guards",
     "type": "shoulders",
     "quality": "epic",
@@ -106,6 +111,7 @@
     }
   },
   {
+    "id": "bhmk7br",
     "name": "Battle-hardened Mark VII Breastplate",
     "type": "chest",
     "quality": "epic",
@@ -128,6 +134,7 @@
     }
   },
   {
+    "id": "bros",
     "name": "Breastplate of Strength",
     "type": "chest",
     "quality": "epic",
@@ -153,6 +160,7 @@
     }
   },
   {
+    "id": "bhmk5lp",
     "name": "Battle-hardened Mark V Leg Plates",
     "type": "legs",
     "quality": "epic",
@@ -172,6 +180,7 @@
     }
   },
   {
+    "id": "bhmk7lp",
     "name": "Battle-hardened Mark VII Leg Plates",
     "type": "legs",
     "quality": "epic",

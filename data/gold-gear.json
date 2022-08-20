@@ -1,5 +1,6 @@
 [
   {
+    "id": "heor",
     "name": "Helmet of Rage",
     "type": "head",
     "quality": "legendary",
@@ -19,6 +20,7 @@
     }
   },
   {
+    "id": "amk7he",
     "name": "Artificer Mark VII Helmet",
     "type": "head",
     "quality": "legendary",
@@ -44,6 +46,7 @@
     }
   },
   {
+    "id": "amk6he",
     "name": "Artificer Mark VI Helmet",
     "type": "head",
     "quality": "legendary",
@@ -69,6 +72,7 @@
     }
   },
   {
+    "id": "heodhs",
     "name": "Helmet of Drakehide Scales",
     "type": "head",
     "quality": "legendary",
@@ -93,6 +97,7 @@
     }
   },
   {
+    "id": "sgor",
     "name": "Shoulder Guard of Rage",
     "type": "shoulders",
     "quality": "legendary",
@@ -113,6 +118,7 @@
     }
   },
   {
+    "id": "amk7sg",
     "name": "Artificer Mark VII Shoulder Guard",
     "type": "shoulders",
     "quality": "legendary",
@@ -138,6 +144,7 @@
     }
   },
   {
+    "id": "amk6sg",
     "name": "Artificer Mark VI Shoulder Guard",
     "type": "shoulders",
     "quality": "legendary",
@@ -164,6 +171,7 @@
     }
   },
   {
+    "id": "sgodhs",
     "name": "Shoulder Guards of Drakehide Scales",
     "type": "shoulders",
     "quality": "legendary",
@@ -187,6 +195,7 @@
     }
   },
   {
+    "id": "gaor",
     "name": "Gauntlets of Rage",
     "type": "hands",
     "quality": "legendary",
@@ -205,6 +214,7 @@
     }
   },
   {
+    "id": "amk7ga",
     "name": "Artificer Mark VII Gauntlets",
     "type": "hands",
     "quality": "legendary",
@@ -230,6 +240,7 @@
     }
   },
   {
+    "id": "amk6ga",
     "name": "Artificer Mark VI Gauntlets",
     "type": "hands",
     "quality": "legendary",
@@ -256,6 +267,7 @@
     }
   },
   {
+    "id": "gaodhs",
     "name": "Gauntlets of Drakehide Scales",
     "type": "hands",
     "quality": "legendary",
@@ -280,6 +292,7 @@
     }
   },
   {
+    "id": "rbb",
     "name": "Rebel's Bane",
     "type": "chest",
     "quality": "legendary",
@@ -303,6 +316,7 @@
     }
   },
   {
+    "id": "amk7br",
     "name": "Artificer Mark VII Breastplate",
     "type": "chest",
     "quality": "legendary",
@@ -326,6 +340,7 @@
     }
   },
   {
+    "id": "amk6br",
     "name": "Artificer Mark VI Breastplate",
     "type": "chest",
     "quality": "legendary",
@@ -351,6 +366,7 @@
     }
   },
   {
+    "id": "brodhs",
     "name": "Breastplate of Drakehide Scales",
     "type": "chest",
     "quality": "legendary",
@@ -375,6 +391,7 @@
     }
   },
   {
+    "id": "lpor",
     "name": "Leg Plates of Rage",
     "type": "legs",
     "quality": "legendary",
@@ -394,6 +411,7 @@
     }
   },
   {
+    "id": "amk7lp",
     "name": "Artificer Mark VII Leg Plates",
     "type": "legs",
     "quality": "legendary",
@@ -419,6 +437,7 @@
     }
   },
   {
+    "id": "amk6lp",
     "name": "Artificer Mark VI Leg Plates",
     "type": "legs",
     "quality": "legendary",
@@ -444,6 +463,7 @@
     }
   },
   {
+    "id": "lpodhs",
     "name": "Leg Plates of Drakehide Scales",
     "type": "legs",
     "quality": "legendary",
@@ -468,6 +488,7 @@
     }
   },
   {
+    "id": "amk7bp",
     "name": "Artificer Mark VII Backpack",
     "type": "back",
     "quality": "legendary",
@@ -482,6 +503,7 @@
     }
   },
   {
+    "id": "mpbp",
     "name": "Malthirion Pattern Power Backpack",
     "type": "back",
     "quality": "legendary",
@@ -499,6 +521,7 @@
     }
   },
   {
+    "id": "bpodhs",
     "name": "Backpack of Drakehide Scales",
     "type": "back",
     "quality": "legendary",
@@ -513,6 +536,7 @@
     }
   },
   {
+    "id": "bpos",
     "name": "The Backpack of Strength",
     "type": "back",
     "quality": "legendary",
