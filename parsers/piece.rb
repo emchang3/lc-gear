@@ -16,11 +16,31 @@ class Piece
     @materials = Materials.new(piece_json['materials'])
   end
 
+  def is_legendary
+    self.quality == 'legendary'
+  end
+
+  def is_epic
+    self.quality == 'epic'
+  end
+
+  def is_elite
+    self.quality == 'elite'
+  end
+
+  def is_outstanding
+    self.quality == 'outstanding'
+  end
+
   def buffs_vanguard
     !self.stats.vanguard_veteran.nil?
   end
 
   def buffs_dreadnought
     !self.stats.dreadnought.nil?
+  end
+
+  def buffs_primaris
+    !self.stats.primaris_squad.nil?
   end
 end

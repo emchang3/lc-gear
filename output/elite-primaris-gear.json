@@ -1,0 +1,40 @@
+[
+  {
+    "id": "smk4he",
+    "name": "Standard Mark IV Imperial Maximus Suit Helmet",
+    "type": "head",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "defense": 9
+      },
+      "primarisSquad": {
+        "attack": 4.5
+      },
+      "marchSpeed": 2.25
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "id": "smk8lp",
+    "name": "Standard Mark VIII Errant Pattern Leg Plates",
+    "type": "legs",
+    "quality": "elite",
+    "stats": {
+      "dreadnought": {
+        "defense": 9
+      },
+      "primarisSquad": {
+        "attack": 4.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20
+    }
+  }
+]

@@ -32,18 +32,66 @@ list.include('./data/blue-gear.json')
 list.include('./data/purple-gear.json')
 list.include('./data/gold-gear.json')
 
-pvg = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_vanguard }
-pvgl = GearList.new(pvg)
-pvgl.write_file('epic-vanguard-gear')
+desired_gear = [
+  {
+    filename: 'epic-vanguard-gear',
+    criteria: [
+      'is_epic',
+      'buffs_vanguard'
+    ]
+  },
+  {
+    filename: 'elite-vanguard-gear',
+    criteria: [
+      'is_elite',
+      'buffs_vanguard'
+    ]
+  },
+  {
+    filename: 'epic-dreadnought-gear',
+    criteria: [
+      'is_epic',
+      'buffs_dreadnought'
+    ]
+  },
+  {
+    filename: 'elite-dreadnought-gear',
+    criteria: [
+      'is_elite',
+      'buffs_dreadnought'
+    ]
+  },
+  {
+    filename: 'epic-primaris-gear',
+    criteria: [
+      'is_epic',
+      'buffs_primaris'
+    ]
+  },
+  {
+    filename: 'elite-primaris-gear',
+    criteria: [
+      'is_elite',
+      'buffs_primaris'
+    ]
+  }
+]
 
-bvg = list.gear_list.select { |g| g.quality == 'elite' && g.buffs_vanguard }
-bvgl = GearList.new(bvg)
-bvgl.write_file('elite-vanguard-gear')
+threads = []
 
-gvg = list.gear_list.select { |g| g.quality == 'outstanding' && g.buffs_vanguard }
-gvgl = GearList.new(gvg)
-gvgl.write_file('outstanding-vanguard-gear')
+desired_gear.each do |l|
+  threads << Thread.new {
+    gears =
+      l[:criteria]
+      .map { |m| list.gear_list.select { |g| g.send(m) } }
+      .select { |gl| gl.length.positive? }
+    
+    gear = gears[0] if gears.length.positive?
+    gears.each { |g| gear = g & gear }
+    
+    gearl = GearList.new(gear)
+    gearl.write_file(l[:filename])
+  }
+end
 
-pdn = list.gear_list.select { |g| g.quality == 'epic' && g.buffs_dreadnought }
-pdnl = GearList.new(pdn)
-pdnl.write_file('epic-dreadnought-gear')
+threads.each(&:join)

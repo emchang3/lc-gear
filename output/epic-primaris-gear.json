@@ -1,0 +1,113 @@
+[
+  {
+    "id": "bhmk8sg",
+    "name": "Battle-hardened Mark VIII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "bhmk5sg",
+    "name": "Battle-hardened Mark V Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "primarisSquad": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "gaos",
+    "name": "Gauntlets of Strength",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "predator": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "bhmk5lp",
+    "name": "Battle-hardened Mark V Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "dreadnought": {
+        "defense": 12,
+        "hp": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "id": "lpos",
+    "name": "Leg Plates of Strength",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12,
+        "hp": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  }
+]
