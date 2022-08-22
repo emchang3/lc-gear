@@ -32,81 +32,22 @@ list.include('./data/blue-gear.json')
 list.include('./data/purple-gear.json')
 list.include('./data/gold-gear.json')
 
-desired_gear = [
-  {
-    filename: 'epic-vanguard-gear',
-    criteria: [
-      'is_epic',
-      'buffs_vanguard'
-    ]
-  },
-  {
-    filename: 'elite-vanguard-gear',
-    criteria: [
-      'is_elite',
-      'buffs_vanguard'
-    ]
-  },
-  {
-    filename: 'epic-dreadnought-gear',
-    criteria: [
-      'is_epic',
-      'buffs_dreadnought'
-    ]
-  },
-  {
-    filename: 'elite-dreadnought-gear',
-    criteria: [
-      'is_elite',
-      'buffs_dreadnought'
-    ]
-  },
-  {
-    filename: 'epic-primaris-gear',
-    criteria: [
-      'is_epic',
-      'buffs_primaris'
-    ]
-  },
-  {
-    filename: 'elite-primaris-gear',
-    criteria: [
-      'is_elite',
-      'buffs_primaris'
-    ]
-  },
-  {
-    filename: 'epic-prim-vv-gear',
-    criteria: [
-      'is_epic',
-      'buffs_primaris',
-      'buffs_vanguard'
-    ]
-  },
-  {
-    filename: 'epic-vv-dread-gear',
-    criteria: [
-      'is_epic',
-      'buffs_vanguard',
-      'buffs_dreadnought'
-    ]
-  }
-]
+desired_gear = JSON.parse(`cat config.json`)
 
 threads = []
 
 desired_gear.each do |l|
   threads << Thread.new {
     gears =
-      l[:criteria]
-      .map { |m| list.gear_list.select { |g| g.send(m) } }
-      .select { |gl| gl.length.positive? }
+      l['criteria']
+        .map { |m| list.gear_list.select { |g| g.send(m) } }
+        .select { |gl| gl.length.positive? }
     
     gear = gears[0] if gears.length.positive?
     gears.each { |g| gear = g & gear }
     
     gearl = GearList.new(gear)
-    gearl.write_file(l[:filename])
+    gearl.write_file(l['filename'])
   }
 end
 
