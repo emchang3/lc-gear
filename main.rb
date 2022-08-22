@@ -82,6 +82,14 @@ desired_gear = [
       'buffs_primaris',
       'buffs_vanguard'
     ]
+  },
+  {
+    filename: 'epic-vv-dread-gear',
+    criteria: [
+      'is_epic',
+      'buffs_vanguard',
+      'buffs_dreadnought'
+    ]
   }
 ]
 

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bhmk7sg",
+    "name": "Battle-hardened Mark VII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 12,
+        "hp": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "id": "bhmk7lp",
+    "name": "Battle-hardened Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  }
+]
