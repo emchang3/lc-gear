@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lpos",
+    "name": "Leg Plates of Strength",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12,
+        "hp": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  }
+]

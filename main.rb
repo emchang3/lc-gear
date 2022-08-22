@@ -74,6 +74,14 @@ desired_gear = [
       'is_elite',
       'buffs_primaris'
     ]
+  },
+  {
+    filename: 'epic-prim-vv-gear',
+    criteria: [
+      'is_epic',
+      'buffs_primaris',
+      'buffs_vanguard'
+    ]
   }
 ]
 
