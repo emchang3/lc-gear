@@ -1,5 +1,3 @@
-
-
 class Set
   attr_reader :two_piece, :three_piece, :five_piece
 

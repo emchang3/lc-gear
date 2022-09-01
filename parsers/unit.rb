@@ -1,5 +1,3 @@
-
-
 class Unit
   attr_reader :attack, :defense, :hp
 

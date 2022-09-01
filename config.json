@@ -1,60 +1,68 @@
-[
-  {
-    "filename": "epic-vanguard-gear",
-    "criteria": [
-      "is_epic",
-      "buffs_vanguard"
-    ]
-  },
-  {
-    "filename": "elite-vanguard-gear",
-    "criteria": [
-      "is_elite",
-      "buffs_vanguard"
-    ]
-  },
-  {
-    "filename": "epic-dreadnought-gear",
-    "criteria": [
-      "is_epic",
-      "buffs_dreadnought"
-    ]
-  },
-  {
-    "filename": "elite-dreadnought-gear",
-    "criteria": [
-      "is_elite",
-      "buffs_dreadnought"
-    ]
-  },
-  {
-    "filename": "epic-primaris-gear",
-    "criteria": [
-      "is_epic",
-      "buffs_primaris"
-    ]
-  },
-  {
-    "filename": "elite-primaris-gear",
-    "criteria": [
-      "is_elite",
-      "buffs_primaris"
-    ]
-  },
-  {
-    "filename": "epic-prim-vv-gear",
-    "criteria": [
-      "is_epic",
-      "buffs_primaris",
-      "buffs_vanguard"
-    ]
-  },
-  {
-    "filename": "epic-vv-dread-gear",
-    "criteria": [
-      "is_epic",
-      "buffs_vanguard",
-      "buffs_dreadnought"
-    ]
-  }
-]
+{
+  "sources": [
+    "./data/green-gear.json",
+    "./data/blue-gear.json",
+    "./data/purple-gear.json",
+    "./data/gold-gear.json"
+  ],
+  "lists": [
+    {
+      "filename": "epic-vanguard-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_vanguard"
+      ]
+    },
+    {
+      "filename": "elite-vanguard-gear",
+      "criteria": [
+        "is_elite",
+        "buffs_vanguard"
+      ]
+    },
+    {
+      "filename": "epic-dreadnought-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_dreadnought"
+      ]
+    },
+    {
+      "filename": "elite-dreadnought-gear",
+      "criteria": [
+        "is_elite",
+        "buffs_dreadnought"
+      ]
+    },
+    {
+      "filename": "epic-primaris-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_primaris"
+      ]
+    },
+    {
+      "filename": "elite-primaris-gear",
+      "criteria": [
+        "is_elite",
+        "buffs_primaris"
+      ]
+    },
+    {
+      "filename": "epic-prim-vv-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_primaris",
+        "buffs_vanguard"
+      ]
+    },
+    {
+      "filename": "epic-vv-dread-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_vanguard",
+        "buffs_dreadnought"
+      ]
+    }
+  ]
+}

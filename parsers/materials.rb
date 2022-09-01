@@ -1,5 +1,3 @@
-
-
 class Materials
   attr_reader :adamantium_frame, :ceramite_plates, :data_cables, :servo_motor
 
