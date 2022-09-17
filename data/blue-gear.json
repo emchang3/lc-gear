@@ -123,9 +123,7 @@
         "hp": 4.5
       }
     },
-    "set": {
-      "2pc": "nonPlayerDamage5%"
-    },
+    "set": "smk7",
     "materials": {
       "dataCables": 40
     }
@@ -181,9 +179,7 @@
         "attack": 4.5
       }
     },
-    "set": {
-      "2pc": "nonPlayerDamage5%"
-    },
+    "set": "smk7",
     "materials": {
       "dataCables": 40
     }

@@ -175,6 +175,25 @@
     }
   },
   {
+    "id": "bhmk8br",
+    "name": "Battle-hardenedMark VIII Breastplate",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "hp": 6
+      },
+      "marchSpeed": 3
+    },
+    "materials": {
+      "dataCables": 40,
+      "servoMotor": 20
+    }
+  },
+  {
     "id": "bhmk8lp",
     "name": "Battle-hardened Mark VIII Leg Plates",
     "type": "legs",

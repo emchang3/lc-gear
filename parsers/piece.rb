@@ -6,7 +6,6 @@ class Piece
   attr_reader :json, :name, :type, :quality, :stats, :set, :materials
 
   def initialize(piece_json)
-    @json = piece_json
     @id = piece_json['id']
     @name = piece_json['name']
     @type = piece_json['type']
@@ -14,6 +13,11 @@ class Piece
     @stats = Stats.new(piece_json['stats'])
     @set = !piece_json['set'].nil? ? Set.new(piece_json['set']) : nil
     @materials = Materials.new(piece_json['materials'])
+    @json = piece_json
+
+    unless @set.nil?
+      @json['set'] = @set.json
+    end
   end
 
   def is_legendary

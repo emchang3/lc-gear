@@ -55,10 +55,7 @@
         "defense": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense3%",
-      "3pc": "increaseLoad5%"
-    },
+    "set": "bhmk7",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 40
@@ -78,10 +75,7 @@
         "defense": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack3%",
-      "3pc": "allTroopsDefense3%"
-    },
+    "set": "str",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 40
@@ -143,10 +137,7 @@
         "defense": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense3%",
-      "3pc": "increaseLoad5%"
-    },
+    "set": "bhmk7",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 20,
@@ -169,10 +160,7 @@
         "defense": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack3%",
-      "3pc": "allTroopsDefense3%"
-    },
+    "set": "str",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 20,
@@ -233,10 +221,7 @@
         "attack": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense3%",
-      "3pc": "increaseLoad5%"
-    },
+    "set": "bhmk7",
     "materials": {
       "ceramitePlates": 40,
       "adamantiumFrame": 20
@@ -258,10 +243,7 @@
         "attack": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack3%",
-      "3pc": "allTroopsDefense3%"
-    },
+    "set": "str",
     "materials": {
       "ceramitePlates": 40,
       "adamantiumFrame": 20
@@ -300,13 +282,29 @@
         "hp": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense3%",
-      "3pc": "increaseLoad5%"
-    },
+    "set": "bhmk7",
     "materials": {
       "adamantiumFrame": 20,
       "dataCables": 40
+    }
+  },
+  {
+    "id": "bhmk8br",
+    "name": "Battle-hardenedMark VIII Breastplate",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "hp": 6
+      },
+      "marchSpeed": 3
+    },
+    "materials": {
+      "dataCables": 40,
+      "servoMotor": 20
     }
   },
   {
@@ -325,10 +323,7 @@
         "attack": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack3%",
-      "3pc": "allTroopsDefense3%"
-    },
+    "set": "str",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 20,
@@ -391,10 +386,7 @@
         "defense": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense3%",
-      "3pc": "increaseLoad5%"
-    },
+    "set": "bhmk7",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 40
@@ -414,10 +406,7 @@
         "attack": 6
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack3%",
-      "3pc": "allTroopsDefense3%"
-    },
+    "set": "str",
     "materials": {
       "ceramitePlates": 20,
       "adamantiumFrame": 20,

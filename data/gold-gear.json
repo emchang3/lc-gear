@@ -35,11 +35,7 @@
         "attack": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense5%",
-      "3pc": "allTroopsAttack5%",
-      "5pc": "armyDodgeIncrease3%"
-    },
+    "set": "amk7",
     "materials": {
       "ceramitePlates": 50,
       "adamantiumFrame": 25
@@ -61,11 +57,7 @@
         "attack": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack5%",
-      "3pc": "allTroopsHP5%",
-      "5pc": "armyAccuracyIncrease5%"
-    },
+    "set": "amk6",
     "materials": {
       "ceramitePlates": 50,
       "adamantiumFrame": 25
@@ -85,11 +77,7 @@
       },
       "nonPlayerDamage": 3.75
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 25,
@@ -133,11 +121,7 @@
         "attack": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense5%",
-      "3pc": "allTroopsAttack5%",
-      "5pc": "armyDodgeIncrease3%"
-    },
+    "set": "amk7",
     "materials": {
       "ceramitePlates": 50,
       "dataCables": 25
@@ -159,11 +143,7 @@
         "hp": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack5%",
-      "3pc": "allTroopsHP5%",
-      "5pc": "armyAccuracyIncrease5%"
-    },
+    "set": "amk6",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 25,
@@ -184,11 +164,7 @@
         "hp": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "ceramitePlates": 25,
       "dataCables": 50
@@ -229,11 +205,7 @@
         "attack": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense5%",
-      "3pc": "allTroopsAttack5%",
-      "5pc": "armyDodgeIncrease3%"
-    },
+    "set": "amk7",
     "materials": {
       "ceramitePlates": 50,
       "adamantiumFrame": 25
@@ -255,11 +227,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack5%",
-      "3pc": "allTroopsHP5%",
-      "5pc": "armyAccuracyIncrease5%"
-    },
+    "set": "amk6",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 25,
@@ -280,11 +248,7 @@
       },
       "nonPlayerDamageTaken": 3
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "ceramitePlates": 25,
       "dataCables": 25,
@@ -305,11 +269,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "adamantiumFrame": 50,
       "dataCables": 25
@@ -329,11 +289,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense5%",
-      "3pc": "allTroopsAttack5%",
-      "5pc": "armyDodgeIncrease3%"
-    },
+    "set": "amk7",
     "materials": {
       "adamantiumFrame": 50,
       "dataCables": 25
@@ -355,11 +311,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack5%",
-      "3pc": "allTroopsHP5%",
-      "5pc": "armyAccuracyIncrease5%"
-    },
+    "set": "amk6",
     "materials": {
       "ceramitePlates": 25,
       "dataCables": 50
@@ -379,11 +331,7 @@
       },
       "nonPlayerDamageTaken": 3
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "ceramitePlates": 25,
       "dataCables": 25,
@@ -426,11 +374,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsDefense5%",
-      "3pc": "allTroopsAttack5%",
-      "5pc": "armyDodgeIncrease3%"
-    },
+    "set": "amk7",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 50
@@ -452,11 +396,7 @@
         "defense": 7.5
       }
     },
-    "set": {
-      "2pc": "allTroopsAttack5%",
-      "3pc": "allTroopsHP5%",
-      "5pc": "armyAccuracyIncrease5%"
-    },
+    "set": "amk6",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 50
@@ -476,11 +416,7 @@
       },
       "marchSpeed": 3.75
     },
-    "set": {
-      "2pc": "allTroopsHP5%",
-      "3pc": "armyCritChanceIncrease%",
-      "5pc": "allTroopsDefense5%"
-    },
+    "set": "dhs",
     "materials": {
       "ceramitePlates": 25,
       "adamantiumFrame": 25,

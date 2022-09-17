@@ -1,0 +1,28 @@
+{
+  "smk7": {
+    "2pc": "nonPlayerDamage5%"
+  },
+  "bhmk7": {
+    "2pc": "allTroopsDefense3%",
+    "3pc": "increaseLoad5%"
+  },
+  "str": {
+    "2pc": "allTroopsAttack3%",
+    "3pc": "allTroopsDefense3%"
+  },
+  "amk7": {
+    "2pc": "allTroopsDefense5%",
+    "3pc": "allTroopsAttack5%",
+    "5pc": "armyDodgeIncrease3%"
+  },
+  "amk6": {
+    "2pc": "allTroopsAttack5%",
+    "3pc": "allTroopsHP5%",
+    "5pc": "armyAccuracyIncrease5%"
+  },
+  "dhs": {
+    "2pc": "allTroopsHP5%",
+    "3pc": "armyCritChanceIncrease%",
+    "5pc": "allTroopsDefense5%"
+  }
+}
