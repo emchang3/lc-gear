@@ -63,6 +63,14 @@
         "buffs_vanguard",
         "buffs_dreadnought"
       ]
+    },
+    {
+      "filename": "epic-dread-pred-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_dreadnought",
+        "buffs_predator"
+      ]
     }
   ]
 }

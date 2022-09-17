@@ -1,0 +1,76 @@
+[
+  {
+    "id": "bhmk7he",
+    "name": "Battle-hardened Mark VII Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "id": "bhmk7br",
+    "name": "Battle-hardened Mark VII Breastplate",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "defense": 6,
+        "hp": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "adamantiumFrame": 20,
+      "dataCables": 40
+    }
+  },
+  {
+    "id": "bros",
+    "name": "Breastplate of Strength",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  }
+]

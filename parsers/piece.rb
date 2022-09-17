@@ -47,4 +47,8 @@ class Piece
   def buffs_primaris
     !self.stats.primaris_squad.nil?
   end
+
+  def buffs_predator
+    !self.stats.predator.nil?
+  end
 end
