@@ -1,0 +1,255 @@
+[
+  {
+    "id": "bhmk6he",
+    "name": "Battle-hardened Mark VI Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "dreadnought": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "marchSpeed": 3
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "id": "bhmk3he",
+    "name": "Battle-hardened Mark III Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "nonPlayerDamage": 3
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "servoMotor": 20
+    }
+  },
+  {
+    "id": "bhmk7he",
+    "name": "Battle-hardened Mark VII Helmet",
+    "type": "head",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  },
+  {
+    "id": "bhmk8sg",
+    "name": "Battle-hardened Mark VIII Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "bhmk5sg",
+    "name": "Battle-hardened Mark V Shoulder Guards",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "primarisSquad": {
+        "attack": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "sgos",
+    "name": "Shoulder Guards of Strength",
+    "type": "shoulders",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "predator": {
+        "hp": 6
+      },
+      "vanguardVeteran": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "id": "bhmk8ga",
+    "name": "Battle-hardened Mark VIII Gauntlets",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "vanguardVeteran": {
+        "hp": 6
+      },
+      "predator": {
+        "hp": 6
+      }
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "dataCables": 40
+    }
+  },
+  {
+    "id": "bhmk7ga",
+    "name": "Battle-hardened Mark VII Gauntlets",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "vanguardVeteran": {
+        "defense": 6,
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "gaos",
+    "name": "Gauntlets of Strength",
+    "type": "hands",
+    "quality": "epic",
+    "stats": {
+      "whirlwind": {
+        "attack": 12
+      },
+      "predator": {
+        "defense": 6
+      },
+      "primarisSquad": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 40,
+      "adamantiumFrame": 20
+    }
+  },
+  {
+    "id": "bros",
+    "name": "Breastplate of Strength",
+    "type": "chest",
+    "quality": "epic",
+    "stats": {
+      "predator": {
+        "hp": 12
+      },
+      "dreadnought": {
+        "defense": 6
+      },
+      "whirlwind": {
+        "attack": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack3%",
+      "3pc": "allTroopsDefense3%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 20,
+      "dataCables": 20
+    }
+  },
+  {
+    "id": "bhmk7lp",
+    "name": "Battle-hardened Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "epic",
+    "stats": {
+      "vanguardVeteran": {
+        "defense": 12
+      },
+      "whirlwind": {
+        "attack": 6
+      },
+      "dreadnought": {
+        "defense": 6
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense3%",
+      "3pc": "increaseLoad5%"
+    },
+    "materials": {
+      "ceramitePlates": 20,
+      "adamantiumFrame": 40
+    }
+  }
+]

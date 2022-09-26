@@ -51,4 +51,8 @@ class Piece
   def buffs_predator
     !self.stats.predator.nil?
   end
+
+  def buffs_whirlwind
+    !self.stats.whirlwind.nil?
+  end
 end

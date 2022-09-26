@@ -71,6 +71,13 @@
         "buffs_dreadnought",
         "buffs_predator"
       ]
+    },
+    {
+      "filename": "epic-ww-gear",
+      "criteria": [
+        "is_epic",
+        "buffs_whirlwind"
+      ]
     }
   ]
 }
