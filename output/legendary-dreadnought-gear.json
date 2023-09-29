@@ -1,0 +1,246 @@
+[
+  {
+    "id": "amk6sg",
+    "name": "Artificer Mark VI Shoulder Guard",
+    "type": "shoulders",
+    "quality": "legendary",
+    "stats": {
+      "primarisSquad": {
+        "attack": 15
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      },
+      "dreadnought": {
+        "hp": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "id": "amk7ga",
+    "name": "Artificer Mark VII Gauntlets",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "attack": 15
+      },
+      "dreadnought": {
+        "defense": 7.5
+      },
+      "primarisSquad": {
+        "attack": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 50,
+      "adamantiumFrame": 25
+    }
+  },
+  {
+    "id": "amk6ga",
+    "name": "Artificer Mark VI Gauntlets",
+    "type": "hands",
+    "quality": "legendary",
+    "stats": {
+      "whirlwind": {
+        "attack": 15
+      },
+      "vanguardVeteran": {
+        "hp": 7.5
+      },
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "id": "rbb",
+    "name": "Rebel's Bane",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 15,
+        "defense": 7.5
+      },
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsHP5%",
+      "3pc": "armyCritChanceIncrease%",
+      "5pc": "allTroopsDefense5%"
+    },
+    "materials": {
+      "adamantiumFrame": 50,
+      "dataCables": 25
+    }
+  },
+  {
+    "id": "amk7br",
+    "name": "Artificer Mark VII Breastplate",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "hp": 15,
+        "defense": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "adamantiumFrame": 50,
+      "dataCables": 25
+    }
+  },
+  {
+    "id": "amk6br",
+    "name": "Artificer Mark VI Breastplate",
+    "type": "chest",
+    "quality": "legendary",
+    "stats": {
+      "vanguardVeteran": {
+        "hp": 15
+      },
+      "dreadnought": {
+        "hp": 7.5
+      },
+      "predator": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "dataCables": 50
+    }
+  },
+  {
+    "id": "lpor",
+    "name": "Leg Plates of Rage",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15,
+        "hp": 7.5
+      },
+      "primarisSquad": {
+        "attack": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "dataCables": 25
+    }
+  },
+  {
+    "id": "amk7lp",
+    "name": "Artificer Mark VII Leg Plates",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsDefense5%",
+      "3pc": "allTroopsAttack5%",
+      "5pc": "armyDodgeIncrease3%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 50
+    }
+  },
+  {
+    "id": "amk6lp",
+    "name": "Artificer Mark VI Leg Plates",
+    "type": "legs",
+    "quality": "legendary",
+    "stats": {
+      "dreadnought": {
+        "defense": 15
+      },
+      "whirlwind": {
+        "attack": 7.5
+      },
+      "vanguardVeteran": {
+        "defense": 7.5
+      }
+    },
+    "set": {
+      "2pc": "allTroopsAttack5%",
+      "3pc": "allTroopsHP5%",
+      "5pc": "armyAccuracyIncrease5%"
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 50
+    }
+  },
+  {
+    "id": "mpbp",
+    "name": "Malthirion Pattern Power Backpack",
+    "type": "back",
+    "quality": "legendary",
+    "stats": {
+      "armySizeLimit": 7.5,
+      "adamantiumCollectingSpeed": 10,
+      "dreadnought": {
+        "defense": 7.5
+      }
+    },
+    "materials": {
+      "ceramitePlates": 25,
+      "adamantiumFrame": 25,
+      "servoMotor": 25
+    }
+  }
+]

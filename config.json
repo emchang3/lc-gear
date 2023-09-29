@@ -78,6 +78,13 @@
         "is_epic",
         "buffs_whirlwind"
       ]
+    },
+    {
+      "filename": "legendary-dreadnought-gear",
+      "criteria": [
+        "is_legendary",
+        "buffs_dreadnought"
+      ]
     }
   ]
 }
